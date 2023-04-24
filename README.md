@@ -6,7 +6,7 @@ This App was built to show the fundamentals of react in use
  + css modules
  
  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown,
-](src/assets/meals.png)
+](src/assets/meals1.png)
 
 * **using firebase as a backend service**
 * goto console (firebase)
