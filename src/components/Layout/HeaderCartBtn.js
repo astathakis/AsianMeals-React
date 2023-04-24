@@ -21,6 +21,8 @@ const HeaderCartBtn = (props) => {
 
   const btnClasses = `${classes.button} ${btnIsHighlighted ? classes.bump : ''}`
 
+  //=============== animation on cart btn=====================
+
   useEffect(() => {
     if (items.length === 0) {
       return
