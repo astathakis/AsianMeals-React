@@ -41,6 +41,7 @@ const Cart = (props) => {
     setIsSubmitting(false)
     setDidSubmit(true)
     cartCtx.clearCart()
+    console.log(response)
   }
 
   const cartItems = (
